@@ -3,3 +3,5 @@ hola mundo :P
 print("hola gays")
 
 sisisisfff
+
+input(int( "ingresa tu edad: "))
